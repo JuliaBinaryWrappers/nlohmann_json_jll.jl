@@ -1,0 +1,6 @@
+[nlohmann_json]
+git-tree-sha1 = "1668e9fc203ee5326a61696af990e4045bc4f935"
+
+    [[nlohmann_json.download]]
+    sha256 = "4b29e6af351e85b07400435238bd81c26a0303857a7a817cb2c947ca5d06dc9b"
+    url = "https://github.com/JuliaBinaryWrappers/nlohmann_json_jll.jl/releases/download/nlohmann_json-v3.11.3+0/nlohmann_json.v3.11.3.any.tar.gz"
